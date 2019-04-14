@@ -1,0 +1,7 @@
+One test case for one condition
+Test case should not be failed by external condition
+Try to cover many conditions with Tests as much as possible
+Take unnecessary variables outside
+
+When naming a test --> What are the conditions that are tested _ What are the values that are important values to that test
+(testTruncateAInFirst2Positions_AInFirstPosition)
